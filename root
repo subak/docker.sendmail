@@ -1,0 +1,1 @@
+/root/sendmail/queue IN_CREATE /root/sendmail/bin/send_and_remove.sh $@/$#
